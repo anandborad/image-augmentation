@@ -2,6 +2,8 @@
 
 Image augmentation is an engineered solution to create a new set of images by applying standard image processing methods to existing images.
 
+![alt text](https://datamonje.com/wp-content/uploads/2021/07/Image-Data-Augmentation.jpg "DataMonje Image Augmentation")
+
 This solution is mostly useful for neural networks or CNN when the training dataset size is small. Although, Image augmentation is also used with a large dataset as regularization technique to build a generalized or robust model.
 
 Deep learning algorithms are not powerful just because of their ability to mimic the human brain. They are also powerful because of their ability to thrive with more data. In fact, they require a significant amount of data to deliver considerable performance.
