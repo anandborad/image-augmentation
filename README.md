@@ -29,4 +29,4 @@ This notebook contains code for:
 - Image Augmentation using Keras' experimental layers
 - Building custom layers for image augmentation
 
-Visit this article for detailed information: [Guide to Image Augmentation: from beginners to advance](https://datamonje.com/image-data-augmentation/ "Image Data Augmentation Guide")
+Visit [this article](https://datamonje.com/image-data-augmentation/ "Image Data Augmentation Guide") for detailed information
